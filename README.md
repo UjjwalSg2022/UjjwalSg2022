@@ -11,7 +11,6 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year B.Tech CSE student at **GLA University, Mathura** (2022 – 2026)
 - 💼 Full Stack Developer at **MAC International**, Noida — building end-to-end web apps on the MERN stack with RESTful APIs, JWT auth, and MVC architecture in Agile workflows
 - 🛠️ Comfortable across the stack: debugging, root-cause analysis, software testing, and production deployment troubleshooting
 - 📌 Built **Daybook** — a role-based (Super Admin / Manager / Employee) internal work-tracking portal for MAC International
@@ -46,7 +45,7 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **Daybook** | React (Vite), Tailwind, Node.js, Express, MongoDB Atlas, JWT | Role-based dashboards, task CRUD, custom voice-messaging feature, production deployment on Render + Apache |
+| **[Daybook](https://github.com/UjjwalSg2022/Daybook)** | React (Vite), Tailwind, Node.js, Express, MongoDB Atlas, JWT | Role-based dashboards, task CRUD, custom voice-messaging feature, production deployment on Render + Apache |
 | **Employee Attendance & Time Tracking System** | React, Node.js, Express, MongoDB, JWT, node-cron, Nodemailer | Check-in/out tracking, leave management, admin analytics dashboard, 16 tested REST endpoints |
 | **[Freelancer Portfolio](https://ujjwalsinghportfolio.vercel.app)** | React, TypeScript, Tailwind, Framer Motion | SEO/accessibility-optimized, deployed on Vercel |
 
