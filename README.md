@@ -90,11 +90,25 @@ Actively shipping more full-stack projects — check my [pinned repos](https://g
 
 <br/>
 
-## 🔥 Streak
+## 🌱 Currently
+
+- 🔭 Building out more full-stack MERN projects for my portfolio
+- 🧠 Sharpening backend fundamentals — API design, auth, and database modeling
+- 🎯 Prepping for SDE interviews while working full-time
+- 💬 Ask me about React, Node.js/Express, or MongoDB — happy to help or nerd out
+
+<br/>
+
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSg2022&theme=radical&hide_border=true" />
+I'm actively looking for full-time **SDE / Full Stack** opportunities.
+Reach out on <a href="https://linkedin.com/in/ujjwal-singh02" target="_blank">LinkedIn</a> or drop a mail at <a href="mailto:ujjwalsingh0070@gmail.com">ujjwalsingh0070@gmail.com</a> — always up for a chat.
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=UjjwalSg2022&label=Profile+Views&color=6a11cb&style=flat" />
 
 </div>
 
