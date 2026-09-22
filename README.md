@@ -1,123 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ujjwal%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=55&descSize=20" />
+# Hi, I'm Ujjwal Singh 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;Full+Stack+Developer+%40+MAC+International;Final-Year+CSE+Student+%40+GLA+University;Open+to+SDE+%2F+Full+Stack+opportunities" />
+**Full Stack Developer (MERN)** · MAC International, Noida
+Final-Year CSE Student @ GLA University, Mathura
 
-<br/>
-
-<a href="https://linkedin.com/in/ujjwal-singh02" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ujjwalsinghportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:ujjwalsingh0070@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[LinkedIn](https://linkedin.com/in/ujjwal-singh02) · [Portfolio](https://ujjwalsinghportfolio.vercel.app) · [Email](mailto:ujjwalsingh0070@gmail.com)
 
 </div>
 
 <br/>
 
-## 🧭 Quick Facts
+## About
 
-```yaml
-role:      Full Stack Developer @ MAC International, Noida
-education: B.Tech CSE, GLA University Mathura (2022 – 2026)
-stack:     React · Node.js · Express · MongoDB · JWT
-focus:     RESTful APIs, MVC architecture, Agile workflows
-looking:   Full-time SDE / Full Stack roles
-```
+Building full-stack web apps on the MERN stack — RESTful APIs, JWT auth, MVC architecture, Agile workflows. Comfortable across the stack: debugging, testing, and production deployment.
 
-<br/>
+Currently looking for full-time **SDE / Full Stack** roles.
 
-## 🧱 What I've Built
+## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,github&theme=dark" />
 
-### 🗂️ [Daybook](https://github.com/UjjwalSg2022/Daybook)
-Internal work-tracking portal for MAC International — replaces verbal task assignment with a written, timestamped, per-employee record.
+## Projects
 
-`React (Vite)` `Tailwind` `Node.js` `Express` `MongoDB Atlas` `JWT`
+**[Daybook](https://github.com/UjjwalSg2022/Daybook)** — Internal work-tracking portal for MAC International, with role-based dashboards for Super Admin, Manager, and Employee.
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
-- Role-based dashboards for Super Admin / Manager / Employee
-- Task CRUD with employee-owned status updates
-- Custom voice-messaging feature with bespoke audio player
-- Deployed to production (Render + Apache)
+**Employee Attendance & Time Tracking System** — Full-stack MERN HR tool with check-in/out tracking, leave management, and an admin analytics dashboard.
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ Employee Attendance & Time Tracking System
-A full-stack MERN HR tool for check-in/out tracking and leave management.
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `node-cron` `Nodemailer`
-
-- Timestamped attendance + role-based access control
-- Leave management module with real-time dashboard updates
-- Admin analytics dashboard for attendance/leave reports
-- 16 REST endpoints, all validated via Postman test suites
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 [Freelancer Portfolio](https://ujjwalsinghportfolio.vercel.app)
-Responsive portfolio site built during my Coding Blocks traineeship.
-
-`React` `TypeScript` `Tailwind` `Framer Motion`
-
-- SEO + accessibility optimized (metadata, OG tags, sitemap)
-- Deployed to production on Vercel
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 More in progress
-Actively shipping more full-stack projects — check my [pinned repos](https://github.com/UjjwalSg2022?tab=repositories) for the latest.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧰 Tech I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman,vscode,vercel&theme=dark" />
-
-</div>
-
-<br/>
-
-## 🌱 Currently
-
-- 🔭 Building out more full-stack MERN projects for my portfolio
-- 🧠 Sharpening backend fundamentals — API design, auth, and database modeling
-- 🎯 Prepping for SDE interviews while working full-time
-- 💬 Ask me about React, Node.js/Express, or MongoDB — happy to help or nerd out
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm actively looking for full-time **SDE / Full Stack** opportunities.
-Reach out on <a href="https://linkedin.com/in/ujjwal-singh02" target="_blank">LinkedIn</a> or drop a mail at <a href="mailto:ujjwalsingh0070@gmail.com">ujjwalsingh0070@gmail.com</a> — always up for a chat.
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=UjjwalSg2022&label=Profile+Views&color=6a11cb&style=flat" />
-
-</div>
+**[Freelancer Portfolio](https://ujjwalsinghportfolio.vercel.app)** — Responsive portfolio site, SEO and accessibility optimized, deployed on Vercel.
+`React` `TypeScript` `Tailwind`
 
 <br/>
 
 <div align="center">
-
-*Thanks for stopping by — let's connect and build something!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
-
+<sub>Thanks for stopping by</sub>
 </div>
