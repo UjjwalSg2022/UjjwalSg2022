@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ujjwal</h1>
+<h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">Full Stack Developer (MERN) @ MAC International | Final-Year CSE Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://macintl.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-macintl.in-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ujjwal-singh02" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ujjwalsinghportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ujjwalsingh0070@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 4th-year B.Tech CSE student at **GLA University, Mathura** (Class of 2026)
-- 💼 Full Stack Developer at **MAC International**, a furniture manufacturing & export company based in Noida
-- 🛠️ I own end-to-end development of [macintl.in](https://macintl.in) — the company's B2B marketing site
-- 🧩 Building products on the **MERN stack** (React.js, Node.js, Express.js, MongoDB), following Agile workflows and MVC architecture
-- 📌 Currently building **EATS** — an Employee Attendance & Time Tracking System — as a full-scope portfolio project
-- 🔭 Also working on an internal **Daybook** work-tracking portal and a custom **ERP** for MAC International
-- 🌱 Actively exploring SEO/AEO/GEO optimization and real-time 3D web experiences (Unreal Engine + Pixel Streaming)
+- 🎓 Final-year B.Tech CSE student at **GLA University, Mathura** (2022 – 2026)
+- 💼 Full Stack Developer at **MAC International**, Noida — building end-to-end web apps on the MERN stack with RESTful APIs, JWT auth, and MVC architecture in Agile workflows
+- 🛠️ Comfortable across the stack: debugging, root-cause analysis, software testing, and production deployment troubleshooting
+- 📌 Built **Daybook** — a role-based (Super Admin / Manager / Employee) internal work-tracking portal for MAC International
+- 📌 Built an **Employee Attendance & Time Tracking System** — MERN HR tool with check-in/out tracking, leave management, and an admin analytics dashboard
+- 🌱 Previously a Full Stack Development Trainee at **Coding Blocks**, where I shipped a freelancer portfolio site (React, TypeScript, Tailwind, Framer Motion) deployed on Vercel
 - 📫 Actively looking for full-time SDE / Full Stack roles — open to connecting!
 
 ---
@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman,vscode,vercel" />
 </p>
 
 ---
@@ -42,14 +42,13 @@
 
 ---
 
-### 📌 Featured Work
+### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| **[macintl.in](https://macintl.in)** | End-to-end B2B marketing website for MAC International — MERN stack, SEO-optimized, custom UI components |
-| **EATS** | Employee Attendance & Time Tracking System — full PRD, scaffolded MERN app, backend in progress |
-| **Daybook** | Internal work-tracking portal built for MAC International, doubling as a portfolio piece |
-| **ERP** | Custom ERP system for MAC International, phased 12-month solo build |
+| Project | Stack | Highlights |
+|---|---|---|
+| **Daybook** | React (Vite), Tailwind, Node.js, Express, MongoDB Atlas, JWT | Role-based dashboards, task CRUD, custom voice-messaging feature, production deployment on Render + Apache |
+| **Employee Attendance & Time Tracking System** | React, Node.js, Express, MongoDB, JWT, node-cron, Nodemailer | Check-in/out tracking, leave management, admin analytics dashboard, 16 tested REST endpoints |
+| **[Freelancer Portfolio](https://ujjwalsinghportfolio.vercel.app)** | React, TypeScript, Tailwind, Framer Motion | SEO/accessibility-optimized, deployed on Vercel |
 
 ---
 
